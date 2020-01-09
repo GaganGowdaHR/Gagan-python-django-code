@@ -1,0 +1,79 @@
+We’re rapidly moving towards a day and age where almost everything can be controlled by machines and one of the most revolutionary moves has been the advent of artificial intelligence. In this artificial intelligence course, we will talk about how to get started with AI and what exactly it is. While it began as a part of smartphones and other smart devices, AI has been increasingly taking over in other fields too. To begin with, one must understand what Artificial Intelligence is. It is an area of computer science focusing on the creation of intelligent machines that work and react like humans.
+
+Well, of course, there’s a lot more to this simple-seeming definition and this phenomenon is surely headed to change the future.
+
+ 
+
+Goals
+
+Without us realizing, it has become amply clear that AI has become a part of a lot of industries in ways which now seem inseparable. If you are trying to learn artificial intelligence it is firstly, important to understand the goals of AI.
+
+ 
+
+-        Primary goals: deduction and reasoning, knowledge representation, planning, Natural Language Processing (NLP), learning, perception and the ability to move and manipulate objects.
+
+ 
+
+-        Long-term goals: To achieve creativity, social intelligence, and human level intelligence.
+
+ 
+
+It is clear as day, that a lot of these goals have been achieved while a lot are on the way of being fulfilled. Moreover, the goals that have been achieved are surely being refined every day.
+
+ 
+
+Types
+
+Next in line with this artificial intelligence online course is understanding the various types of AI. There are a lot of categories that fall into AI but it can be divided into three basic concepts based on AI’s capabilities:
+
+ 
+
+-        Weak: Weak AI or Narrow AI, perform only one task. The AI has to be conditioned with a set of certain answers and roles and it does not go beyond that, weak AI is thus not self-sufficient. An example of this is iOs’ Siri.
+
+ 
+
+-        Strong: Strong AI can basically do everything that a human being can do. Imagine delivering food to people’s doorsteps. A lot of research is going into this and engineers have made enough headway into it, but there’s still a long way to go.
+
+ 
+
+-        Superintelligence: Artificial superintelligence goes beyond strong AI. It can actually exceed human beings when it comes to creativity, general wisdom and even social skills.
+
+ 
+
+Core Concepts
+
+The core concepts that are currently guiding AI are:
+
+ 
+
+-        Machine Learning: Under machine learning, a machine is fed data which it learns to utilize without actually being explicitly programmed. The machine automatically recognizes patterns and makes decisions.
+
+ 
+
+-        Deep Learning: Deep learning is a subfield of machine learning and aims to simulate human thinking. The algorithms of this can automatically determine the accuracy of a prediction.
+
+ 
+
+-        Supervised Learning: Under supervised learning a machine is fed data with labels and categorizations, leading the machine to churn out only the same and right answers.
+
+ 
+
+-        Unsupervised Learning: With unsupervised learning, on the other hand, the machine is fed data without any labels or categories yet the machine manages to find patterns and create categories
+
+ 
+
+-        Reinforcement Learning: The algorithm works on trial and error and has to be conditioned using reinforcement much like the human mind.
+
+ 
+
+Getting Started
+
+Now that you know, the basic concepts and the foundation of AI, it’s time to invest your time and resources in a programming languages course. There are a lot of languages you can start with but many tend to prefer Python.
+
+ 
+
+You can learn Python and take a comprehensive artificial intelligence course only on Edyoda, that too for free.
+
+ 
+
+For more, head down to https://www.edyoda.com/
